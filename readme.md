@@ -70,4 +70,4 @@ spec = sc.denoise(noisy_spec, os.path.join(ROOT_DIR, 'save_path_to_clean.npy'))
 python sound_cleaner.py --spec /noisy_spec_path.npy --save /clean_result_spec_path.npy
 </code></pre>
 
-[пример](https://github.com/keymkm/SoundCleaner/blob/master/src/ipynb/test_model.ipynb")
+[пример](https://github.com/keymkm/SoundCleaner/blob/master/src/ipynb/test_model.ipynb)
